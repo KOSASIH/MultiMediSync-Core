@@ -1,6 +1,6 @@
 # Core dependencies
 alembic==1.7.7
-Flask==2.0.2
+Flask==2.2.5
 Flask-SQLAlchemy==2.5.1
 marshmallow==3.14.1
 psycopg2-binary==2.9.3
