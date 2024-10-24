@@ -1,0 +1,13 @@
+# Core dependencies
+alembic==1.7.7
+Flask==2.0.2
+Flask-SQLAlchemy==2.5.1
+marshmallow==3.14.1
+psycopg2-binary==2.9.3
+python-dotenv==0.19.2
+SQLAlchemy==1.4.29
+
+# Development dependencies
+flake8==4.0.1
+pytest==6.2.5
+pytest-cov==3.0.0
