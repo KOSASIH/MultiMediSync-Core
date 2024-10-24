@@ -33,6 +33,16 @@
 [![NIA Funded](https://img.shields.io/badge/NIA-Funded-brightgreen?style=flat-square)](https://www.nia.nih.gov/)
 [![NINDS Funded](https://img.shields.io/badge/NINDS-Funded-brightgreen?style=flat-square)](https://www.ninds.nih.gov/)
 [![NICHD Funded](https://img.shields.io/badge/NICHD-Funded-brightgreen?style=flat-square)](https://www.nichd.nih.gov/)
+[![AAP Member](https://img.shields.io/badge/AAP-Member-blue?style=flat-square)](https://www.aap.org/)
+[![ACS Accredited](https://img.shields.io/badge/ACS-Accredited-brightgreen?style=flat-square)](https://www.facs.org/)
+[![APA Member](https://img.shields.io/badge/APA-Member-orange?style=flat-square)](https://www.apa.org/)
+[![AANP Certified](https://img.shields.io/badge/AANP-Certified-blue?style=flat-square)](https://www.aanp.org/)
+[![NASW Member](https://img.shields.io/badge/NASW-Member-brightgreen?style=flat-square)](https://www.socialworkers.org/)
+[![AACN Certified](https://img.shields.io/badge/AACN-Certified-blue?style=flat-square)](https://www.aacn.org/)
+[![ACOG Member](https://img.shields.io/badge/ACOG-Member-orange?style=flat-square)](https://www.acog.org/)
+[![AAFP Member](https://img.shields.io/badge/AAFP-Member-brightgreen?style=flat-square)](https://www.aafp.org/)
+[![NBCOT Certified](https://img.shields.io/badge/NBCOT-Certified-blue?style=flat-square)](https://www.nbcot.org/)
+[![CARF Accredited](https://img.shields.io/badge/CARF-Accredited-brightgreen?style=flat-square)](https://www.carf.org/)
 
 # MultiMediSync-Core
 MultiMediSync-Core is the foundational repository for the MultiMediSync platform, focusing on the core functionalities of real-time patient data integration and synchronization across diverse healthcare systems. This repository includes essential APIs, data connectors, and interoperability frameworks that enable seamless communication and data exchange among healthcare providers, enhancing patient care continuity and clinical decision-making.
