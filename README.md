@@ -53,6 +53,16 @@
 [![AAOHN Member](https://img.shields.io/badge/AAOHN-Member-orange?style=flat-square)](https://www.aaohn.org/)
 [![NAPNAP Member](https://img.shields.io/badge/NAPNAP-Member-brightgreen?style=flat-square)](https://www.napnap.org/)
 [![ASHP Member](https://img.shields.io/badge/ASHP-Member-blue?style=flat-square)](https://www.ashp.org/)
+[![AMA Member](https://img.shields.io/badge/AMA-Member-blue?style=flat-square)](https://www.ama-assn.org/)
+[![ANA Member](https://img.shields.io/badge/ANA-Member-brightgreen?style=flat-square)](https://www.nursingworld.org/)
+[![NLN Member](https://img.shields.io/badge/NLN-Member-orange?style=flat-square)](http://www.nln.org/)
+[![ACS Member](https://img.shields.io/badge/ACS-Member-blue?style=flat-square)](https://www.facs.org/)
+[![AAFP Member](https://img.shields.io/badge/AAFP-Member-brightgreen?style=flat-square)](https://www.aafp.org/)
+[![AANP Member](https://img.shields.io/badge/AANP-Member-blue?style=flat-square)](https://www.aanp.org/)
+[![SCCM Member](https://img.shields.io/badge/SCCM-Member-orange?style=flat-square)](https://www.sccm.org/)
+[![AAP Member](https://img.shields.io/badge/AAP-Member-brightgreen?style=flat-square)](https://www.aap.org/)
+[![ACOG Member](https://img.shields.io/badge/ACOG-Member-blue?style=flat-square)](https://www.acog.org/)
+[![AACP Member](https://img.shields.io/badge/AACP-Member-orange?style=flat-square)](https://www.aacp.org/)
 
 # MultiMediSync-Core
 MultiMediSync-Core is the foundational repository for the MultiMediSync platform, focusing on the core functionalities of real-time patient data integration and synchronization across diverse healthcare systems. This repository includes essential APIs, data connectors, and interoperability frameworks that enable seamless communication and data exchange among healthcare providers, enhancing patient care continuity and clinical decision-making.
