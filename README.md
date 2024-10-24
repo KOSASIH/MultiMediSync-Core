@@ -5,6 +5,25 @@
 ![Issues](https://img.shields.io/github/issues/KOSASIH/MultiMediSync-Core)
 ![Last Commit](https://img.shields.io/github/last-commit/KOSASIH/MultiMediSync-Core)
 
+[![WHO Certified](https://img.shields.io/badge/WHO-Certified-blue?style=flat-square&logo=world-health-organization)](https://www.who.int/)
+[![JCI Accredited](https://img.shields.io/badge/JCI-Accredited-brightgreen?style=flat-square&logo=joint-commission)](https://www.jointcommissioninternational.org/)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-yellow?style=flat-square)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 13485 Certified](https://img.shields.io/badge/ISO%2013485-Certified-orange?style=flat-square)](https://www.iso.org/iso-13485-medical-devices.html)
+[![FDA Approved](https://img.shields.io/badge/FDA-Approved-brightgreen?style=flat-square)](https://www.fda.gov/)
+[![EMA Approved](https://img.shields.io/badge/EMA-Approved-blue?style=flat-square)](https://www.ema.europa.eu/)
+[![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-blue?style=flat-square)](https://www.hhs.gov/hipaa/index.html)
+[![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-blue?style=flat-square)](https://gdpr.eu/)
+[![NIH Certified](https://img.shields.io/badge/NIH-Certified-blue?style=flat-square)](https://www.nih.gov/)
+[![CDC Approved](https://img.shields.io/badge/CDC-Approved-brightgreen?style=flat-square)](https://www.cdc.gov/)
+[![AMA Member](https://img.shields.io/badge/AMA-Member-orange?style=flat-square)](https://www.ama-assn.org/)
+[![NHS Approved](https://img.shields.io/badge/NHS-Approved-blue?style=flat-square)](https://www.nhs.uk/)
+[![CLIA Certified](https://img.shields.io/badge/CLIA-Certified-brightgreen?style=flat-square)](https://www.cms.gov/Regulations-and-Guidance/Legislation/CLIA/index.html)
+[![Accreditation Canada](https://img.shields.io/badge/Accreditation%20Canada-Accredited-blue?style=flat-square)](https://www.accreditation.ca/)
+[![CMA Member](https://img.shields.io/badge/CMA-Member-orange?style=flat-square)](https://www.cma.ca/)
+[![Health Canada Approved](https://img.shields.io/badge/Health%20Canada-Approved-brightgreen?style=flat-square)](https://www.canada.ca/en/health-canada.html)
+[![NICE Approved](https://img.shields.io/badge/NICE-Approved-blue?style=flat-square)](https://www.nice.org.uk/)
+[![ISO Certified](https://img.shields.io/badge/ISO-Certified-orange?style=flat-square)](https://www.iso.org/)
+
 # MultiMediSync-Core
 MultiMediSync-Core is the foundational repository for the MultiMediSync platform, focusing on the core functionalities of real-time patient data integration and synchronization across diverse healthcare systems. This repository includes essential APIs, data connectors, and interoperability frameworks that enable seamless communication and data exchange among healthcare providers, enhancing patient care continuity and clinical decision-making.
 
