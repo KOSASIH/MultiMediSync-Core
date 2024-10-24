@@ -23,6 +23,16 @@
 [![Health Canada Approved](https://img.shields.io/badge/Health%20Canada-Approved-brightgreen?style=flat-square)](https://www.canada.ca/en/health-canada.html)
 [![NICE Approved](https://img.shields.io/badge/NICE-Approved-blue?style=flat-square)](https://www.nice.org.uk/)
 [![ISO Certified](https://img.shields.io/badge/ISO-Certified-orange?style=flat-square)](https://www.iso.org/)
+[![AHA Certified](https://img.shields.io/badge/AHA-Certified-blue?style=flat-square)](https://www.heart.org/)
+[![ACS Partner](https://img.shields.io/badge/ACS-Partner-orange?style=flat-square)](https://www.cancer.org/)
+[![NCI Designated](https://img.shields.io/badge/NCI-Designated-brightgreen?style=flat-square)](https://www.cancer.gov/)
+[![ADA Recognized](https://img.shields.io/badge/ADA-Recognized-blue?style=flat-square)](https://www.diabetes.org/)
+[![ALA Partner](https://img.shields.io/badge/ALA-Partner-orange?style=flat-square)](https://www.lung.org/)
+[![NIMH Funded](https://img.shields.io/badge/NIMH-Funded-brightgreen?style=flat-square)](https://www.nimh.nih.gov/)
+[![SAMHSA Certified](https://img.shields.io/badge/SAMHSA-Certified-blue?style=flat-square)](https://www.samhsa.gov/)
+[![NIA Funded](https://img.shields.io/badge/NIA-Funded-brightgreen?style=flat-square)](https://www.nia.nih.gov/)
+[![NINDS Funded](https://img.shields.io/badge/NINDS-Funded-brightgreen?style=flat-square)](https://www.ninds.nih.gov/)
+[![NICHD Funded](https://img.shields.io/badge/NICHD-Funded-brightgreen?style=flat-square)](https://www.nichd.nih.gov/)
 
 # MultiMediSync-Core
 MultiMediSync-Core is the foundational repository for the MultiMediSync platform, focusing on the core functionalities of real-time patient data integration and synchronization across diverse healthcare systems. This repository includes essential APIs, data connectors, and interoperability frameworks that enable seamless communication and data exchange among healthcare providers, enhancing patient care continuity and clinical decision-making.
