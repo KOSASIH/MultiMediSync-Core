@@ -1,3 +1,10 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Coverage Status](https://img.shields.io/codecov/c/github/KOSASIH/MultiMediSync-Core)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Issues](https://img.shields.io/github/issues/KOSASIH/MultiMediSync-Core)
+![Last Commit](https://img.shields.io/github/last-commit/KOSASIH/MultiMediSync-Core)
+
 # MultiMediSync-Core
 MultiMediSync-Core is the foundational repository for the MultiMediSync platform, focusing on the core functionalities of real-time patient data integration and synchronization across diverse healthcare systems. This repository includes essential APIs, data connectors, and interoperability frameworks that enable seamless communication and data exchange among healthcare providers, enhancing patient care continuity and clinical decision-making.
 
