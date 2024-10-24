@@ -43,6 +43,15 @@
 [![AAFP Member](https://img.shields.io/badge/AAFP-Member-brightgreen?style=flat-square)](https://www.aafp.org/)
 [![NBCOT Certified](https://img.shields.io/badge/NBCOT-Certified-blue?style=flat-square)](https://www.nbcot.org/)
 [![CARF Accredited](https://img.shields.io/badge/CARF-Accredited-brightgreen?style=flat-square)](https://www.carf.org/)
+[![AANP Member](https://img.shields.io/badge/AANP-Member-blue?style=flat-square)](https://www.aanp.org/)
+[![AACN Member](https://img.shields.io/badge/AACN-Member-orange?style=flat-square)](https://www.aacnnursing.org/)
+[![ASCO Member](https://img.shields.io/badge/ASCO-Member-brightgreen?style=flat-square)](https://www.asco.org/)
+[![ASA Member](https://img.shields.io/badge/ASA-Member-blue?style=flat-square)](https://www.asahq.org/)
+[![ACC Member](https://img.shields.io/badge/ACC-Member-orange?style=flat-square)](https://www.acc.org/)
+[![AAOS Member](https://img.shields.io/badge/AAOS-Member-brightgreen?style=flat-square)](https://www.aaos.org/)
+[![ACEP Member](https://img.shields.io/badge/ACEP-Member-blue?style=flat-square)](https://www.acep.org/)
+[![AAOHN Member](https://img.shields.io/badge/AAOHN-Member-orange?style=flat-square)](https://www.aaohn.org/)
+[![NAPNAP Member](https://img.shields.io/badge/NAPNAP-Member-brightgreen?style=flat-square)](https://www.napnap.org/)
 
 # MultiMediSync-Core
 MultiMediSync-Core is the foundational repository for the MultiMediSync platform, focusing on the core functionalities of real-time patient data integration and synchronization across diverse healthcare systems. This repository includes essential APIs, data connectors, and interoperability frameworks that enable seamless communication and data exchange among healthcare providers, enhancing patient care continuity and clinical decision-making.
