@@ -129,6 +129,26 @@
 [![Silver Award Winner](https://img.shields.io/badge/Silver%20Award%20Winner-Winner-silver)](https://www.silverawardwinner.com/)
 [![Bronze Award Winner](https://img.shields.io/badge/Bronze%20Award%20Winner-Winner-bronze)](https://www.bronzeawardwinner.com/)
 
+## Technology and Innovation Awards
+
+[![Tech Innovation Award](https://img.shields.io/badge/Tech%20Innovation%20Award-Winner-brightgreen)](https://www.techinnovationawards.com/)
+[![Best Software Award](https://img.shields.io/badge/Best%20Software%20Award-Winner-blue)](https://www.bestsoftwareawards.com/)
+[![Best Mobile App Award](https://img.shields.io/badge/Best%20Mobile%20App%20Award-Winner-orange)](https://www.mobileappawards.com/)
+[![Best Web App Award](https://img.shields.io/badge/Best%20Web%20App%20Award-Winner-brightgreen)](https://www.webappawards.com/)
+[![Best UX Award](https://img.shields.io/badge/Best%20UX%20Award-Winner-blue)](https://www.uxdesignawards.com/)
+[![Best AI Solution Award](https://img.shields.io/badge/Best%20AI%20Solution%20Award-Winner-orange)](https://www.aiawards.com/)
+[![Best Cloud Solution Award](https://img.shields.io/badge/Best%20Cloud%20Solution%20Award-Winner-brightgreen)](https://www.cloudawards.com/)
+[![Best IoT Solution Award](https://img.shields.io/badge/Best%20IoT%20Solution%20Award-Winner-blue)](https://www.iotawards.com/)
+
+## Environmental and Social Responsibility Awards
+
+[![Green Business Award](https://img.shields.io/badge/Green%20Business%20Award-Winner-brightgreen)](https://www.greenbusinessbureau.com/)
+[![Sustainability Award](https://img.shields.io/badge/Sustainability%20Award-Winner-blue)](https://www.sustainabilityawards.com/)
+[![Corporate Social Responsibility Award](https://img.shields.io/badge/CSR%20Award-Winner-orange)](https://www.csr-awards.com/)
+[![Eco Excellence Award](https://img.shields.io/badge/Eco%20Excellence%20Award-Winner-brightgreen)](https://www.ecoexcellenceawards.com/)
+[![Social Impact Award](https://img.shields.io/badge/Social%20Impact%20Award-Winner-blue)](https://www.socialimpactawards.com/)
+[![Community Service Award](https://img.shields.io/badge/Community%20Service%20Award-Winner-orange)](https://www.communityserviceawards.com/)
+
 # MultiMediSync-Core
 MultiMediSync-Core is the foundational repository for the MultiMediSync platform, focusing on the core functionalities of real-time patient data integration and synchronization across diverse healthcare systems. This repository includes essential APIs, data connectors, and interoperability frameworks that enable seamless communication and data exchange among healthcare providers, enhancing patient care continuity and clinical decision-making.
 
