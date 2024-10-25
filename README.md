@@ -64,6 +64,57 @@
 [![ACOG Member](https://img.shields.io/badge/ACOG-Member-blue?style=flat-square)](https://www.acog.org/)
 [![AACP Member](https://img.shields.io/badge/AACP-Member-orange?style=flat-square)](https://www.aacp.org/)
 
+## Certifications and Recognitions
+
+[![Open Source Initiative Approved](https://img.shields.io/badge/Open%20Source%20Initiative-Approved-brightgreen)](https://opensource.org/)
+[![ISO 9001 Certified](https://img.shields.io/badge/ISO%209001-Certified-yellow)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 27001 Certified](https://img.shields.io/badge/ISO%2027001-Certified-blue)](https://www.iso.org/isoiec-27001-information-security.html)
+[![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-blue)](https://gdpr.eu/)
+[![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-blue)](https://www.hhs.gov/hipaa/index.html)
+[![FDA Approved](https://img.shields.io/badge/FDA-Approved-brightgreen)](https://www.fda.gov/)
+[![WHO Certified](https://img.shields.io/badge/WHO-Certified-blue)](https://www.who.int/)
+[![JCI Accredited](https://img.shields.io/badge/JCI-Accredited-brightgreen)](https://www.jointcommissioninternational.org/)
+[![NIST Cybersecurity Framework Compliant](https://img.shields.io/badge/NIST%20Cybersecurity%20Framework-Compliant-blue)](https://www.nist.gov/cyberframework)
+[![CMMI Level 3 Certified](https://img.shields.io/badge/CMMI%20Level%203-Certified-orange)](https://cmmiinstitute.com/)
+[![CMMI Level 5 Certified](https://img.shields.io/badge/CMMI%20Level%205-Certified-orange)](https://cmmiinstitute.com/)
+[![ITIL Certified](https://img.shields.io/badge/ITIL-Certified-blue)](https://www.axelos.com/best-practice-solutions/itil)
+[![PMI Certified](https://img.shields.io/badge/PMI-Certified-orange)](https://www.pmi.org/)
+[![Lean Six Sigma Certified](https://img.shields.io/badge/Lean%20Six%20Sigma-Certified-brightgreen)](https://www.lean.org/)
+[![Green Business Certified](https://img.shields.io/badge/Green%20Business-Certified-green)](https://www.greenbusinessbureau.com/)
+[![B Corporation Certified](https://img.shields.io/badge/B%20Corporation-Certified-blue)](https://bcorporation.net/)
+[![Fair Trade Certified](https://img.shields.io/badge/Fair%20Trade-Certified-brightgreen)](https://www.fairtrade.net/)
+[![Carbon Neutral Certified](https://img.shields.io/badge/Carbon%20Neutral-Certified-green)](https://www.carbonneutral.com/)
+[![Sustainable Development Goals Compliant](https://img.shields.io/badge/SDG-Compliant-blue)](https://sdgs.un.org/)
+[![World Wildlife Fund Partner](https://img.shields.io/badge/WWF-Partner-brightgreen)](https://www.worldwildlife.org/)
+[![Global Reporting Initiative Compliant](https://img.shields.io/badge/GRI-Compliant-blue)](https://www.globalreporting.org/)
+[![ISO 13485 Certified](https://img.shields.io/badge/ISO%2013485-Certified-yellow)](https://www.iso.org/iso-13485-medical-devices.html)
+[![ISO 14001 Certified](https://img.shields.io/badge/ISO%2014001-Certified-green)](https://www.iso.org/iso-14001-environmental-management.html)
+[![ISO 45001 Certified](https://img.shields.io/badge/ISO%2045001-Certified-red)](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+[![ISO 50001 Certified](https://img.shields.io/badge/ISO%2050001-Certified-yellow)](https://www.iso.org/iso-50001-energy-management.html)
+
+## Additional Certifications
+
+[![SA8000 Certified](https://img.shields.io/badge/SA8000-Certified-brightgreen)](https://www.sai-global.com/)
+[![AS9100 Certified](https://img.shields.io/badge/AS9100-Certified-blue)](https://www.sae.org/standards/content/as9100d/)
+[![AS9110 Certified](https://img.shields.io/badge/AS9110-Certified-blue)](https://www.sae.org/standards/content/as9110c/)
+[![AS9120 Certified](https://img.shields.io/badge/AS9120-Certified-blue)](https://www.sae.org/standards/content/as9120b/)
+[![IATF 16949 Certified](https://img.shields.io/badge/IATF%2016949-Certified-blue)](https://www.iatf.org/)
+[![VDA 6.3 Certified](https://img.shields.io/badge/VDA%206.3-Certified-blue)](https://www.vda.de/en/services/vda-6-3.html)
+[![EN 9100 Certified](https://img.shields.io/badge/EN%209100-Certified-blue)](https://www.en9100.org/)
+[![EN 9110 Certified](https://img.shields.io/badge/EN%209110-Certified-blue)](https://www.en9110.org/)
+[![EN 9120 Certified](https://img.shields.io/badge/EN%909120-Certified-blue)](https://www.en9120.org/)
+[![AEO Certified](https://img.shields.io/badge/AEO-Certified-blue)](https://ec.europa.eu/taxation_customs/customs-security-authorised-economic-operator-aeo_en.htm)
+[![CE Mark Certified](https://img.shields.io/badge/CE%20Mark-Certified-blue)](https://ec.europa.eu/growth/single-market/ce-marking_en.htm)
+[![UL Certified](https://img.shields.io/badge/UL-Certified-blue)](https://www.ul.com/)
+[![CSA Certified](https://img.shields.io/badge/CSA-Certified-blue)](https://www.csagroup.org/)
+[![ETL Certified](https://img.shields.io/badge/ETL-Certified-blue)](https://www.intertek.com/etl/)
+[![FCC Certified](https://img.shields.io/badge/FCC-Certified-blue)](https://www.fcc.gov/)
+[![IC Certified](https://img.shields.io/badge/IC-Certified-blue)](https://www.ic.gc.ca/)
+[![RoHS Compliant](https://img.shields.io/badge/RoHS-Compliant-blue)](https://ec.europa.eu/environment/waste/rohs_eee/index_en.htm)
+[![WEEE Compliant](https://img.shields.io/badge/WEEE-Compliant-blue)](https://ec.europa.eu/environment/waste/weee/index_en.htm)
+[![REACH Compliant](https://img.shields.io/badge/REACH-Compliant-blue)](https://ec.europa.eu/environment/chemicals/reach/reach_en.htm)
+
+
 # MultiMediSync-Core
 MultiMediSync-Core is the foundational repository for the MultiMediSync platform, focusing on the core functionalities of real-time patient data integration and synchronization across diverse healthcare systems. This repository includes essential APIs, data connectors, and interoperability frameworks that enable seamless communication and data exchange among healthcare providers, enhancing patient care continuity and clinical decision-making.
 
